@@ -1,0 +1,23 @@
+{
+  "name": "axios-cheerio",
+  "version": "1.0.0",
+  "description": "Node Axios Cheerio - simple demo of Axios API call and Cheerio DOM reader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibbrett/node-axios-cheerio.git"
+  },
+  "author": "Brett Morriss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibbrett/node-axios-cheerio/issues"
+  },
+  "homepage": "https://github.com/ibbrett/node-axios-cheerio#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
